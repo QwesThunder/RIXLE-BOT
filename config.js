@@ -1,5 +1,5 @@
 userbot = {
- owner: [ "6281261324817" ],
+ owner: [ "6283807449268" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
@@ -12,7 +12,7 @@ userbot = {
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
    packname: "RIXLE-BOT OFFICIAL",
-   author: 'Arifi Razzaq',
+   author: 'ZasXCar',
     setting: {
     admin: "only admin",
     group: "only group",
